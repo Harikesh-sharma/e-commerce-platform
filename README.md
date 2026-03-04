@@ -141,9 +141,7 @@ e-commerce-platform/
 
 ## Default Admin Account
 
-After seeding, you can login with:
-- **Email**: admin@shopsmart.com
-- **Password**: admin123
+-----Data hidden------
 
 ## Stripe Testing
 
